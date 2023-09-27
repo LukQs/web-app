@@ -1,2 +1,2 @@
-# First React App - Simple website
+First React App - Simple website
 
