@@ -1,1 +1,2 @@
-# Getting Started with Create React App
+# First React App - Simple website
+
